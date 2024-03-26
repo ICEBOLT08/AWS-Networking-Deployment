@@ -22,7 +22,7 @@ The deployment process involved meticulous steps:
 ## Images
 
 ### 1. Architecture Diagram
-![Architecture Diagram](images/architecture_diagram.png)
+![Architecture Diagram](Screenshot 2024-03-20 134540.png)
 Visual representation of project setup and flow.
 
 ### 2. VPC Creation
