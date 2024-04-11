@@ -22,11 +22,11 @@ The deployment process involved meticulous steps:
 ## Images
 
 ### 1. Architecture Diagram
-![Architecture Diagram](https://github.com/ICEBOLT08/AWS-Networking-Deployment/blob/main/Screenshot%202024-03-20%20113048.png)
+![Architecture Diagram](https://github.com/ICEBOLT08/AWS-Networking-Deployment/blob/main/Screenshot%202024-03-20%20134540.png)
 Visual representation of project setup and flow.
 
 ### 2. VPC Creation
-![VPC Creation](images/vpc_creation.png)
+![VPC Creation](https://github.com/ICEBOLT08/AWS-Networking-Deployment/blob/main/Screenshot%202024-03-20%20113048.png)
 Snapshot illustrating the configuration of Virtual Private Cloud.
 
 ### 3. Static Webpage Output
