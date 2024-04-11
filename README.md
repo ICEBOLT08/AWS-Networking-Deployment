@@ -22,7 +22,7 @@ The deployment process involved meticulous steps:
 ## Images
 
 ### 1. Architecture Diagram
-![Architecture Diagram](Screenshot 2024-03-20 134540.png)
+![Architecture Diagram](https://github.com/ICEBOLT08/AWS-Networking-Deployment/blob/main/Screenshot%202024-03-20%20113048.png)
 Visual representation of project setup and flow.
 
 ### 2. VPC Creation
