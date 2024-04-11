@@ -30,7 +30,7 @@ Visual representation of project setup and flow.
 Snapshot illustrating the configuration of Virtual Private Cloud.
 
 ### 3. Static Webpage Output
-![Static Webpage Output](images/webpage_output.png)
+![Static Webpage Output](https://github.com/ICEBOLT08/AWS-Networking-Deployment/blob/main/Screenshot%202024-03-20%20131005.png)
 Image showcasing the output of the static webpage accessed via the DNS link of the load balancer.
 
 ## Conclusion
